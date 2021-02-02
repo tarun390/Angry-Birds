@@ -7,7 +7,7 @@ var engine, world;
 var box1, pig1,pig3;
 var backgroundImg,platform;
 var bird, slingshot;
-var bg = "sprites/bg.png";
+var bg = "sprites/bg1.png";
 
 var gameState = "onSling";
 var score = 0;
